@@ -1,0 +1,13 @@
+types of js
+==================================
+inline js
+internal js
+external js
+
+js- programming language of the web page
+
+syntaxt
+========================
+<script>
+
+</script>
